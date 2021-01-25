@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NewsShortz</string>
+    <string name="example_title">Crypto industry has wind in its sails, 8 companies eye public offerings</string>
+    <string name="example_description">Bitcoin has come off its highs after it crossed $40,000 this month, but is still up about 16% this year.</string>
+    <string name="example_author">Vildana Hajric, Olga Kharif and Olivia Raimonde | Bloomberg</string>
+    <string name="example_date">2021–01–24</string>
+    <string name="example_time">02:56:19</string>
+    <string name="empty">No News Found</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="saved_search_key">vaccine</string>
+    <string name="setting_title">Settings</string>
+    <string name="settings_menu_item">settings</string>
+    <string name="default_search_value">vaccine</string>
+    <string name="saved_search_title">Search</string>
+</resources>

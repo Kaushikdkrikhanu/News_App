@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/setting_title">
+    <EditTextPreference
+        android:defaultValue="@string/default_search_value"
+        android:inputType="text"
+        android:key="@string/saved_search_key"
+        android:selectAllOnFocus="true"
+        android:title="@string/saved_search_title"/>
+</PreferenceScreen>
